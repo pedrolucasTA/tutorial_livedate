@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/38d5015bfad28bea60d8fc4db4b5b012/vectordrawable-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/49c8202c90e45e48028d044c35b36e1f/vectordrawable-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/49c8202c90e45e48028d044c35b36e1f/vectordrawable-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/49c8202c90e45e48028d044c35b36e1f/vectordrawable-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable/1.1.0/1e0694477eed874c50c54b547cc3e5a62a57a62b/vectordrawable-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

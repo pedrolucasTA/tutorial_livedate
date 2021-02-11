@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.2.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/2a60faca4b5b9059553ad117658b5cf5/lifecycle-viewmodel-2.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/f7ce6aaf92e7033f199927aff8dabb60/lifecycle-viewmodel-2.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/f7ce6aaf92e7033f199927aff8dabb60/lifecycle-viewmodel-2.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/f7ce6aaf92e7033f199927aff8dabb60/lifecycle-viewmodel-2.2.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.2.0/4f90404dd52d3162217bf329db5afb32d373ec63/lifecycle-viewmodel-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bumptech.glide:glide:4.8.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/bd0109b52a5140daa0a12ef10cd135f5/jetified-glide-4.8.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/bd0109b52a5140daa0a12ef10cd135f5/jetified-glide-4.8.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/bd0109b52a5140daa0a12ef10cd135f5/jetified-glide-4.8.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/38daa14a1ca3b0e9aa1794ede790610f/jetified-glide-4.8.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/38daa14a1ca3b0e9aa1794ede790610f/jetified-glide-4.8.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/transforms-2/files-2.1/38daa14a1ca3b0e9aa1794ede790610f/jetified-glide-4.8.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.8.0/3e47ea5e552c5a08120d1b8bd371dac6e6615f6c/glide-4.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Área de Trabalho/Alura/Estoque/.gradle/4.10.1/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.8.0/ffc2684f1c6436d3942d82d29a5344942792594/glide-4.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

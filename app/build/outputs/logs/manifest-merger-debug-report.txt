@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta8] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\1d0f10ff45425151c64f785e7e397358\constraintlayout-2.0.0-beta8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\72a3695ed122ce3ff965002b4cd7bb8c\navigation-ui-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\277bdf594d699b68f9810242d9456b1b\navigation-ui-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\88d25458b83f52bb3991994f9f86a1b1\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\bfdf835c06c6188d07a09ea66a15da84\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\0b1d11a8560ced353f93a174ac8974cf\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\94449de22ed9d2daab6c7520ae43c8bd\navigation-fragment-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\6875a19ab21eea52d40771a6cc39a790\navigation-runtime-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\16cfe00c91f7e322fc3a5bf8e2718ecf\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\d54e8616e4814c837d6821c2b79e81ba\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\75577c2ec3110d5a508531f2c5b8f5c4\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\3765cb7145b2235b7ad01b37236cee2e\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\38daa14a1ca3b0e9aa1794ede790610f\jetified-glide-4.8.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\44cb6f1be5598e365230728036dbb60d\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\604bc135c0511e9285f813067ea34194\navigation-common-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\a8c07143c35e97c06f3004933b34ea16\jetified-core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\dbeafb9308d48140e19ef1379ab21bb6\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\8e4666abd35e7ad2595cd6d7b715b297\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\2d3ef89fae1354ce9e9935319fcc1ab3\navigation-fragment-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\dfef85c20b5b2ce0c8e49e1ea4c49b82\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\47472475b5dc7afa3a332ff3c9d8f857\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\cc54e6c57cde57d7ea186129c94920da\drawerlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\19d511fbeb59e2d668c2aee43328f99b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\bf96ca011f51b6de97d376703882a8a6\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\7d18ffca003f77d7891661d32ca62200\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\773f0f9528178a4aa5fde07991639efd\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\4ae5d0cbb5f2d1e9d8d373ca2be1436d\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\53f5ff5cb26e10ecda6ad39115db3043\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\49c8202c90e45e48028d044c35b36e1f\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\94a4c005c3a5ee03993f38b7ca513daf\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\3dad77f4b0469f793a750e6921e24ecc\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\5812f4dc97dc9b388fa4b00d58ad3aa9\navigation-runtime-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\86fcb8be6df435fab0b54b038c456715\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\8f540995b53a1e5b7a4563621b928810\navigation-common-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\9de2fd1de7cb84f2ab1bfe5fcac62f71\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\07b8e5908eefa4155385037ed1af8d1a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\a07be40cb504130af7936887f9437143\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\d035a58ea6f806923c54897b74042519\jetified-gifdecoder-4.8.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\6c58cee1667c728eb7a85bf9ff18ce2d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\b4166f29e0b12375ede9d25dc6fe6d17\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\f7ce6aaf92e7033f199927aff8dabb60\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\8edb1ac7927105c97f3e0f2be8ef0994\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\b62b334c7080a3a24711eb088f122242\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\0c8695cb391b1ff32940bbbed1204911\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\69ac264ba7f2b4ed9377ec4defb7eb02\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\e00189ba6207382903e533c5a73d6572\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\b924042844e6d024e673743ec0a9182d\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\07e6174f7c8bf33f3332544763b9ad77\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\a44dd2271e423623f894eb6e8f37028c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\0e35b12297d0037b13c26963089f5cb0\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\211f04dcdb7f90fc6baabf7895e15a5e\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:4:5-49
+		INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:6:5-30:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta8] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\1d0f10ff45425151c64f785e7e397358\constraintlayout-2.0.0-beta8\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta8] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\1d0f10ff45425151c64f785e7e397358\constraintlayout-2.0.0-beta8\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\88d25458b83f52bb3991994f9f86a1b1\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\88d25458b83f52bb3991994f9f86a1b1\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\38daa14a1ca3b0e9aa1794ede790610f\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\38daa14a1ca3b0e9aa1794ede790610f\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\a07be40cb504130af7936887f9437143\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\a07be40cb504130af7936887f9437143\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\d035a58ea6f806923c54897b74042519\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\d035a58ea6f806923c54897b74042519\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\8edb1ac7927105c97f3e0f2be8ef0994\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\8edb1ac7927105c97f3e0f2be8ef0994\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\a07be40cb504130af7936887f9437143\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:10:9-41
+	tools:ignore
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:15:9-64
+	android:roundIcon
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:8:9-36
+	android:theme
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:7:9-41
+activity#com.raywenderlich.android.movieapp.ui.MainActivity
+ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:theme
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:19:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.raywenderlich.android.movieapp.ui.about.AboutDialogActivity
+ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:27:9-29:76
+	android:theme
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:29:13-73
+	android:name
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:28:13-57
+uses-permission#android.permission.INTERNET
+ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:32:5-67
+	android:name
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:32:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml:34:22-76
+uses-sdk
+INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta8] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\1d0f10ff45425151c64f785e7e397358\constraintlayout-2.0.0-beta8\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta8] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\1d0f10ff45425151c64f785e7e397358\constraintlayout-2.0.0-beta8\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\72a3695ed122ce3ff965002b4cd7bb8c\navigation-ui-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\72a3695ed122ce3ff965002b4cd7bb8c\navigation-ui-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\277bdf594d699b68f9810242d9456b1b\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\277bdf594d699b68f9810242d9456b1b\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\88d25458b83f52bb3991994f9f86a1b1\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\88d25458b83f52bb3991994f9f86a1b1\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\bfdf835c06c6188d07a09ea66a15da84\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\bfdf835c06c6188d07a09ea66a15da84\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\0b1d11a8560ced353f93a174ac8974cf\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\0b1d11a8560ced353f93a174ac8974cf\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\94449de22ed9d2daab6c7520ae43c8bd\navigation-fragment-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\94449de22ed9d2daab6c7520ae43c8bd\navigation-fragment-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\6875a19ab21eea52d40771a6cc39a790\navigation-runtime-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\6875a19ab21eea52d40771a6cc39a790\navigation-runtime-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\16cfe00c91f7e322fc3a5bf8e2718ecf\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\16cfe00c91f7e322fc3a5bf8e2718ecf\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\d54e8616e4814c837d6821c2b79e81ba\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\d54e8616e4814c837d6821c2b79e81ba\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\75577c2ec3110d5a508531f2c5b8f5c4\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\75577c2ec3110d5a508531f2c5b8f5c4\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\3765cb7145b2235b7ad01b37236cee2e\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\3765cb7145b2235b7ad01b37236cee2e\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\38daa14a1ca3b0e9aa1794ede790610f\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\38daa14a1ca3b0e9aa1794ede790610f\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\44cb6f1be5598e365230728036dbb60d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\44cb6f1be5598e365230728036dbb60d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\604bc135c0511e9285f813067ea34194\navigation-common-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\604bc135c0511e9285f813067ea34194\navigation-common-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\a8c07143c35e97c06f3004933b34ea16\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\a8c07143c35e97c06f3004933b34ea16\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\dbeafb9308d48140e19ef1379ab21bb6\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\dbeafb9308d48140e19ef1379ab21bb6\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\8e4666abd35e7ad2595cd6d7b715b297\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\8e4666abd35e7ad2595cd6d7b715b297\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\2d3ef89fae1354ce9e9935319fcc1ab3\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\2d3ef89fae1354ce9e9935319fcc1ab3\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\dfef85c20b5b2ce0c8e49e1ea4c49b82\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\dfef85c20b5b2ce0c8e49e1ea4c49b82\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\47472475b5dc7afa3a332ff3c9d8f857\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\47472475b5dc7afa3a332ff3c9d8f857\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\cc54e6c57cde57d7ea186129c94920da\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\cc54e6c57cde57d7ea186129c94920da\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\19d511fbeb59e2d668c2aee43328f99b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\19d511fbeb59e2d668c2aee43328f99b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\bf96ca011f51b6de97d376703882a8a6\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\bf96ca011f51b6de97d376703882a8a6\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\7d18ffca003f77d7891661d32ca62200\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\7d18ffca003f77d7891661d32ca62200\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\773f0f9528178a4aa5fde07991639efd\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\773f0f9528178a4aa5fde07991639efd\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\4ae5d0cbb5f2d1e9d8d373ca2be1436d\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\4ae5d0cbb5f2d1e9d8d373ca2be1436d\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\53f5ff5cb26e10ecda6ad39115db3043\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\53f5ff5cb26e10ecda6ad39115db3043\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\49c8202c90e45e48028d044c35b36e1f\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\49c8202c90e45e48028d044c35b36e1f\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\94a4c005c3a5ee03993f38b7ca513daf\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\94a4c005c3a5ee03993f38b7ca513daf\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\3dad77f4b0469f793a750e6921e24ecc\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\3dad77f4b0469f793a750e6921e24ecc\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\5812f4dc97dc9b388fa4b00d58ad3aa9\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\5812f4dc97dc9b388fa4b00d58ad3aa9\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\86fcb8be6df435fab0b54b038c456715\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\86fcb8be6df435fab0b54b038c456715\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\8f540995b53a1e5b7a4563621b928810\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\8f540995b53a1e5b7a4563621b928810\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\9de2fd1de7cb84f2ab1bfe5fcac62f71\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\9de2fd1de7cb84f2ab1bfe5fcac62f71\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\07b8e5908eefa4155385037ed1af8d1a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\07b8e5908eefa4155385037ed1af8d1a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\a07be40cb504130af7936887f9437143\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\a07be40cb504130af7936887f9437143\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\d035a58ea6f806923c54897b74042519\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\d035a58ea6f806923c54897b74042519\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\6c58cee1667c728eb7a85bf9ff18ce2d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\6c58cee1667c728eb7a85bf9ff18ce2d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\b4166f29e0b12375ede9d25dc6fe6d17\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\b4166f29e0b12375ede9d25dc6fe6d17\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\f7ce6aaf92e7033f199927aff8dabb60\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\f7ce6aaf92e7033f199927aff8dabb60\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\8edb1ac7927105c97f3e0f2be8ef0994\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\8edb1ac7927105c97f3e0f2be8ef0994\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\b62b334c7080a3a24711eb088f122242\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\b62b334c7080a3a24711eb088f122242\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\0c8695cb391b1ff32940bbbed1204911\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\0c8695cb391b1ff32940bbbed1204911\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\69ac264ba7f2b4ed9377ec4defb7eb02\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\69ac264ba7f2b4ed9377ec4defb7eb02\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\e00189ba6207382903e533c5a73d6572\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\e00189ba6207382903e533c5a73d6572\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\b924042844e6d024e673743ec0a9182d\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\b924042844e6d024e673743ec0a9182d\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\07e6174f7c8bf33f3332544763b9ad77\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\07e6174f7c8bf33f3332544763b9ad77\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\a44dd2271e423623f894eb6e8f37028c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\a44dd2271e423623f894eb6e8f37028c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\0e35b12297d0037b13c26963089f5cb0\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\0e35b12297d0037b13c26963089f5cb0\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\211f04dcdb7f90fc6baabf7895e15a5e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Pedro Lucas\햞ea de Trabalho\Alura\Estoque\.gradle\4.10.1\caches\transforms-2\files-2.1\211f04dcdb7f90fc6baabf7895e15a5e\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Pedro Lucas\Tutoriais\MovieApp\starter\app\src\main\AndroidManifest.xml

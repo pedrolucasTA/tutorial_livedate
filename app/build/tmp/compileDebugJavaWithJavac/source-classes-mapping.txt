@@ -1,0 +1,28 @@
+com/raywenderlich/android/movieapp/AppModule_ProvideContextFactory.java
+ com.raywenderlich.android.movieapp.AppModule_ProvideContextFactory
+com/raywenderlich/android/movieapp/framework/network/MovieApiModule_ProvideWeatherApiClientFactory.java
+ com.raywenderlich.android.movieapp.framework.network.MovieApiModule_ProvideWeatherApiClientFactory
+com/raywenderlich/android/movieapp/framework/network/MovieApiModule_ProvidesWeatherApiFactory.java
+ com.raywenderlich.android.movieapp.framework.network.MovieApiModule_ProvidesWeatherApiFactory
+com/raywenderlich/android/movieapp/ui/ViewModelFactory_Factory.java
+ com.raywenderlich.android.movieapp.ui.ViewModelFactory_Factory
+com/raywenderlich/android/movieapp/framework/network/MovieRepository_Factory.java
+ com.raywenderlich.android.movieapp.framework.network.MovieRepository_Factory
+com/raywenderlich/android/movieapp/framework/network/MovieApiModule_ProvideRetrofitFactory.java
+ com.raywenderlich.android.movieapp.framework.network.MovieApiModule_ProvideRetrofitFactory
+com/raywenderlich/android/movieapp/framework/network/MovieApiModule_ProvideMoshiFactory.java
+ com.raywenderlich.android.movieapp.framework.network.MovieApiModule_ProvideMoshiFactory
+com/raywenderlich/android/movieapp/framework/network/MovieApiModule_ProvideInterceptorFactory.java
+ com.raywenderlich.android.movieapp.framework.network.MovieApiModule_ProvideInterceptorFactory
+com/raywenderlich/android/movieapp/BuildConfig.java
+ com.raywenderlich.android.movieapp.BuildConfig
+com/raywenderlich/android/movieapp/ui/MainViewModel_Factory.java
+ com.raywenderlich.android.movieapp.ui.MainViewModel_Factory
+com/raywenderlich/android/movieapp/DaggerAppComponent.java
+ com.raywenderlich.android.movieapp.DaggerAppComponent
+ com.raywenderlich.android.movieapp.DaggerAppComponent$1
+ com.raywenderlich.android.movieapp.DaggerAppComponent$Builder
+com/raywenderlich/android/movieapp/ui/movies/MovieListFragment_MembersInjector.java
+ com.raywenderlich.android.movieapp.ui.movies.MovieListFragment_MembersInjector
+com/raywenderlich/android/movieapp/ui/MainActivity_MembersInjector.java
+ com.raywenderlich.android.movieapp.ui.MainActivity_MembersInjector
